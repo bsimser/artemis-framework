@@ -4,7 +4,7 @@ Artemis is a high performance Entity System framework for games, written in Java
 
 ### Original Code
 
-This contains the original Java code from code.google.com/p/artemis-framework for porting to C#. The original site can be found [here](http://gamadu.com/artemis/).
+This contains the [original Java code](http://code.google.com/p/artemis-framework) for porting to C#. The original site can be found [here](http://gamadu.com/artemis/).
 
 ### Additional Resources 
 
